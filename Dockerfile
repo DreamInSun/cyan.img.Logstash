@@ -1,6 +1,6 @@
 # Version 1.0.0
 #========== Basic Image ==========
-From tomcat:8
+From logstash:1.5.6
 MAINTAINER "DreamInSun"
 
 #========== Environment ==========
